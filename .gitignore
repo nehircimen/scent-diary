@@ -1,0 +1,15 @@
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
