@@ -1,7 +1,5 @@
 # Scent Diary
 
-#### Video Demo: https://youtu.be/JqSXL3cl25k
-
 #### Description:
 
 Scent Diary is a command-line perfume diary application written in Python. It allows users to store perfumes and their fragrance notes, record perfume usage in a personal diary, search for perfumes, and view statistics based on their collection and diary entries.
